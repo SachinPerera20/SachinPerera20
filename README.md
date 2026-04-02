@@ -103,7 +103,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/SachinPerera20/SachinPerera20/output/snake.svg" alt="Snake animation" />
 
